@@ -12,5 +12,6 @@ Aqui você encontra estudos de caso reais de projetos executados, incluindo cont
 - [[cliente-financeiro-2025|Cliente Financeiro — 2025]]
 - [[consultoria-exsen-2024-2025-publicar|Consultoria-Exsen 2024-2025]]
 - [[otimizacao-links-wan-2024|Otimização de links WAN em 80 locais — 2024]]
-- [[atualizacao-firewall-2023-publicar|Atualização Firewall  — 2023]]
+- [[atualizacao-firewall-2023-publicar|Atualização Firewall — Fortinet — 2023]]
 - [[ad-unico-belarmino-2022-publicar|Active Directory Unico GB — 2022]]
+- [[controles-si-belarmino-2021|Controles-SI GB — 2021]]
