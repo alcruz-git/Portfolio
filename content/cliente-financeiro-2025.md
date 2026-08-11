@@ -58,10 +58,4 @@ ambiente de datacenter para o restabelecimento dos serviços.
   da operação de TI
 
 ---
-### Nota para publicação no portfólio
-Antes de mover para `04-Portfolio/`:
-1. O nome do cliente foi intencionalmente omitido para não descumprir
-   acordos de confidencialidade entre as empresas — mantenha assim na
-   versão pública
-2. Confirmar que não há outros detalhes sensíveis pendentes de revisão
-3. Só então trocar `publish: false` → `publish: true`
+
