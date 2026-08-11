@@ -9,6 +9,6 @@ Aqui você encontra estudos de caso reais de projetos executados, incluindo cont
 ## Projetos em destaque
 
 - [[migracao-escritorio-blackbox-2026-publicar|Migração de escritório — 2026]]
-- [[cliente-financeiro-2025.md]]
+- [[Cliente-financeiro — 2025]]
 - [[otimizacao-links-wan-2024|Otimização de links WAN em 80 locais — 2024]]
 
