@@ -1,7 +1,9 @@
+---
 title: Otimização de links WAN em 80 locais — 2024
-tipo: projeto
-area: redes
-status: concluido
+tipo: Projeto
+area: Redes
+Empresa: Grupo Belarmino
+status: Concluido
 publish: true
 tags: [redes, wan, fortinet, reducao-custos]
 data: 2024
