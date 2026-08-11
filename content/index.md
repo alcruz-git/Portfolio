@@ -10,6 +10,7 @@ Aqui você encontra estudos de caso reais de projetos executados, incluindo cont
 
 - [[migracao-escritorio-blackbox-2026-publicar|Migração de escritório — 2026]]
 - [[cliente-financeiro-2025|Cliente Financeiro — 2025]]
+- [[consultoria-exsen-2024-2025-publicar|Consultoria-Exsen 2024-2025]]
 - [[otimizacao-links-wan-2024|Otimização de links WAN em 80 locais — 2024]]
 - [[atualizacao-firewall-2023-publicar|Atualização Firewall  — 2023]]
 
