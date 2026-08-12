@@ -18,3 +18,4 @@ Aqui você encontra estudos de caso reais de projetos executados, incluindo cont
 - [[move-datacenter-belarmino-2020-publicar|Move Datacenter Gb — 2020]]
 - [[novo-datacenter-belarmino-2019-publicar|Datacenter GB— 2019]]
 - [[modernizacao-desktops-belarmino-2018-publicar|Modernizacao desktops GB — 2018]]
+- [[callmanager-cisco-belarmino-2017|Callmanager Cisco — 2017]]
