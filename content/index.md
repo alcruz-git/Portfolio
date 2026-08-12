@@ -16,3 +16,4 @@ Aqui você encontra estudos de caso reais de projetos executados, incluindo cont
 - [[ad-unico-belarmino-2022-publicar|Active Directory Unico GB — 2022]]
 - [[controles-si-belarmino-2021-publicar|Controles-SI GB — 2021]]
 - [[move-datacenter-belarmino-2020-publicar|Move Datacenter Gb — 2020]]
+- [[novo-datacenter-belarmino-2019-publicar|Datacenter GB— 2019]]
