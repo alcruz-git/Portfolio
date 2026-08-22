@@ -1,4 +1,4 @@
-﻿title: Portfólio TI - Redes & GRC
+title: Portfólio TI - Redes & GRC
 
 # Bem-vindo
 
@@ -19,4 +19,3 @@ Aqui você encontra estudos de caso reais de projetos executados, incluindo cont
 - [[novo-datacenter-belarmino-2019-publicar|Datacenter GB— 2019]]
 - [[modernizacao-desktops-belarmino-2018-publicar|Modernizacao desktops GB — 2018]]
 - [[callmanager-cisco-belarmino-2017|Callmanager Cisco — 2017]]
-- [[teste-publicacao|Teste de publicação automática -- 2026-08-22]]
